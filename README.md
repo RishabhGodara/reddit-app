@@ -16,7 +16,15 @@ The project consists of two main parts:
 
 1. **Backend API (Flask)**
 2. **Frontend (CustomTkinter)**
-
+3. **MySql Database**
 ### 1. Backend API (Flask)
 
 The backend is built using Flask and handles all the API requests for the Reddit app. It communicates with Reddit's API, manages user authentication, preferences, and actions like upvoting, downvoting, and commenting.
+
+### 2. Frontent(Customtkinter)
+
+Frontent is buld with customtkinter
+
+### 3. Database
+
+MySql is used for database with preference and user table to store the information.
